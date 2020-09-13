@@ -9,7 +9,7 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 ## Introduction to JavaScript
 - [What is JavaScript?](Introduction/Introduction.md) 
 - [Ways of  wrting javascript](WaysOfWrtingJavascript/WaysOfWrtingJavascript.md) 
-- [Ways of  showing  output](Introduction/Introduction.md)
+- [Ways of  showing  output](WaysOfShowingOutput/WaysOfShowingOutput.md)
 - [Way of writing statement](Introduction/Introduction.md) 
 - [Syntax in javascript](Introduction/Introduction.md) 
 - [Syntax in javascript](Introduction/Introduction.md) 
