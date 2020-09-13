@@ -7,4 +7,4 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 # Beginners Track
 
 ## Introduction to JavaScript
-- [What is JavaScript?](./JavaScript/Introduction.md) 
+- [What is JavaScript?](./Introduction.md) 
