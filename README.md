@@ -35,3 +35,8 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 - [Switch in javascript](Introduction./Introduction.md) 
 - [Loops in javascript](Introduction./Introduction.md) 
 - [Break in javascript](Introduction./Introduction.md) 
+- [Type Conversion in javascript](Introduction./Introduction.md) 
+- [Bitwise in javascript](Introduction./Introduction.md) 
+- [RegExp in javascript](Introduction./Introduction.md) 
+- [Errors in javascript](Introduction./Introduction.md) 
+- [Scope in javascript](Introduction./Introduction.md) 
