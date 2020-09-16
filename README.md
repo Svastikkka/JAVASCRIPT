@@ -1,4 +1,4 @@
-![Javascript](Image/js.png | width=100)
+![Javascript](Image/js.png =250x250)
 
 ---
 layout: default
