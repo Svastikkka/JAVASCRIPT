@@ -1,10 +1,10 @@
-![Javascript](Image/js.png)
-
 ---
 layout: default
 title: Beginners Track
 description: svastikkka | JavaScript | JavaScript - Beginners Track
 ---
+![Javascript](Image/js.png)
+
 
 # Beginners Track
 
