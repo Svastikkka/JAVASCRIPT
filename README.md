@@ -1,3 +1,5 @@
+![Javascript](Image/js.png)
+
 ---
 layout: default
 title: Beginners Track
@@ -42,7 +44,7 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 - [Scope in javascript](Introduction/Introduction.md) 
 
 ## Contributing
-If you want to contribute to a project and make it better, your help is very welcome.
+If you want to contribute in a project to make it better, your help is very welcome.
 
 
 
