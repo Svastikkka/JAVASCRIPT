@@ -40,3 +40,9 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 - [RegExp in javascript](Introduction/Introduction.md) 
 - [Errors in javascript](Introduction/Introduction.md) 
 - [Scope in javascript](Introduction/Introduction.md) 
+
+## Contributing
+If you want to contribute to a project and make it better, your help is very welcome.
+
+
+
