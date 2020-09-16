@@ -1,4 +1,4 @@
-![Javascript](Image/js.png =250x250)
+![Javascript](Image/js.png){:height="36px" width="36px"}
 
 ---
 layout: default
