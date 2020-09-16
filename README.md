@@ -1,4 +1,4 @@
-![Javascript](Image/js.png)
+![Javascript](Image/js.png | width=100)
 
 ---
 layout: default
