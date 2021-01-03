@@ -14,7 +14,7 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 - [3. Ways of  showing  output](3.WaysOfShowingOutput/WaysOfShowingOutput.md) <!--DONE-->
 - [4. Way of writing statement](WayOfWritingStatement/WayOfWritingStatement.md) 
 - [5. Syntax in javascript](5.SyntaxInJavascript/SyntaxInJavascript.md) <!--INPROGRESS-->
-- [Syntax in javascript](Introduction/Introduction.md) 
+- [6. Syntax in javascript](Introduction/Introduction.md) 
 - [Comments in javascript](Introduction/Introduction.md) 
 - [Variables in javascript](Introduction/Introduction.md) 
 - [Operators in javascript](Introduction/Introduction.md) 
