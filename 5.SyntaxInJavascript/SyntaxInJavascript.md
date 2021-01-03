@@ -7,12 +7,13 @@ The JavaScript syntax defines two types of values:
 * Fixed values also called Literals
 * Variable values also called Variables
 
-⋅⋅* 1.1 JavaScript Literals
-⋅⋅⋅ JavaScript Literals are the fixed value that cannot be changed, you do not need to specify ⋅⋅⋅ any type of keyword to write literals. Literals are often used to initialize variables in ⋅⋅⋅ programming, names of variables are string literals.
+⋅⋅1.1 JavaScript Literals
+⋅⋅⋅JavaScript Literals are the fixed value that cannot be changed, you do not need to specify ⋅⋅⋅any type of keyword to write literals. Literals are often used to initialize variables in ⋅⋅⋅programming, names of variables are string literals.
 
-⋅⋅⋅ A JavaScript Literal can be a numeric, string, floating-point value, a boolean value or v ⋅⋅⋅ even an object. In simple words, any value is literal, if you write a string "Javascript ⋅⋅⋅ Tutorial" is a literal, any number like 7007 is a literal, etc.
+⋅⋅⋅A JavaScript Literal can be a numeric, string, floating-point value, a boolean value or v ⋅⋅⋅even an object. In simple words, any value is literal, if you write a string "Javascript 
+⋅⋅⋅Tutorial" is a literal, any number like 7007 is a literal, etc.
 
-⋅⋅⋅ JavaScript supports various types of literals which are listed below:
+⋅⋅⋅JavaScript supports various types of literals which are listed below:
 
 1. Numeric Literal :- 
 ⋅⋅* ``` 120 // decimal literal```
