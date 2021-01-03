@@ -30,9 +30,15 @@ The JavaScript syntax defines two types of values:
     4. String Literal
         * ``` "Study" // String literal```
         * ``` 'tonight' // String literal```
+
         **Note** String literals can have some special characters too which are tabled below.
 
     5. Array Literal
+        * An array literal is a list of zero or more expressions representing array elements that are enclosed in a square bracket([]).
+        * Whenever you create an array using an array literal, it is initialized with the elements specified in the square bracket.
+
+        **Example**
+        ``` var emp = ["aman","anu","charita"];  // Array literal```
 
     6. Regular Expression Literal
 
