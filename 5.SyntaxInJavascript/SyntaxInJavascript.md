@@ -24,10 +24,13 @@ The JavaScript syntax defines two types of values:
         * ``` -167.39894 // negative floating-point literal```
 
     3. Boolean Literal
-    ⋅⋅* ``` true // Boolean literal```
-    ⋅⋅* ``` false // Boolean literal```
+        * ``` true // Boolean literal```
+        * ``` false // Boolean literal```
 
     4. String Literal
+        * ``` "Study" // String literal```
+        * ``` 'tonight' // String literal```
+        **Note** String literals can have some special characters too which are tabled below.
 
     5. Array Literal
 
