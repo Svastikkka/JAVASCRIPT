@@ -52,6 +52,7 @@ The JavaScript syntax defines two types of values:
 
     6. Regular Expression Literal
         * Regular Expression is a pattern, used to match a character or string in some text. It is created by enclosing the regular expression string between forward slashes.
+        
         **Example**
 
         ``` var myregexp = /ab+c/; // Regular Expression literal```
@@ -59,6 +60,7 @@ The JavaScript syntax defines two types of values:
 
     7. Object Literal
         * A collection of key-value pairs enclosed in curly braces({}). The key-value pair is separated by a comma.
+        
         **Example**
 
         ``` var games = {cricket :11, chess :2, carom: 4}  // Object literal```
