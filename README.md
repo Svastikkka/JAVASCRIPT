@@ -10,8 +10,8 @@ description: svastikkka | JavaScript | JavaScript - Beginners Track
 
 ## Introduction to JavaScript
 - [1. What is JavaScript?](1.Introduction/Introduction.md) <!--DONE-->
-- [2. Ways of  include javascript](2.WayOfIncludeJavascript/WayOfIncludeJavascriptInHTML.md) [comment]: <!--DONE-->
-- [3. Ways of  showing  output](3.WaysOfShowingOutput/WaysOfShowingOutput.md) <!--DONE-->(DONE)
+- [2. Ways of  include javascript](2.WayOfIncludeJavascript/WayOfIncludeJavascriptInHTML.md) <!--DONE-->
+- [3. Ways of  showing  output](3.WaysOfShowingOutput/WaysOfShowingOutput.md) <!--DONE-->
 - [4. Way of writing statement](WayOfWritingStatement/WayOfWritingStatement.md) 
 - [5. Syntax in javascript](5.SyntaxInJavascript/SyntaxInJavascript.md) <!--INPROGRESS-->
 - [Syntax in javascript](Introduction/Introduction.md) 
