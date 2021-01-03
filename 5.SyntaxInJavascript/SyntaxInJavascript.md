@@ -1,6 +1,15 @@
 # JavaScript Syntax
 JavaScript syntax is the set of rules, how JavaScript programs are constructed.
-In here we some syntax rules set in javascript
+In here we see some syntax rules set in javascript
+
+<!--
+1. JavaScript Values
+2. JavaScript Operators
+3. JavaScript Expressions
+4. JavaScript Keywords
+5. JavaScript Comments
+6. JavaScript Identifiers
+-->
 
 1. JavaScript Values
 The JavaScript syntax defines two types of values:
